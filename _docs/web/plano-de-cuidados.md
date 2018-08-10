@@ -13,10 +13,10 @@ Figura 1. Tela de Características Definidoras.
 
 Uma vez selecionada as características, é necessário clicar no botão "Próximo".
 
-### 2) Diagnostícos
-Após selecionar as características definidoras, será mostrado a tela de Diagnostícos (Figura 2), na qual você deverá escolher os tipos de "acompanhamentos" que deverão ser feitos para cada diagnóstico.
+### 2) Diagnósticos
+Após selecionar as características definidoras, será mostrado a tela de Diagnósticos (Figura 2), na qual você deverá escolher os tipos de "acompanhamentos" que deverão ser feitos para cada diagnóstico.
 
-Figura 2. Tela de Diagnostícos.
+Figura 2. Tela de Diagnósticos.
 ![]({{ site.baseurl }}/images/sae/plano/diagnosticos.png){:class="img-center"}
 
 Mais uma vez, você deverá clicar no botão "Próximo".

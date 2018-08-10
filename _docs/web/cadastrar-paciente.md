@@ -16,6 +16,6 @@ Figura 1. Formulário de cadastro de um novo paciente sem preenchimento.
 A Figura 2 mostra um exemplo de preenchimento do Formulário.
 
 Figura 2. Exemplo de formulário preenchido.
-![]({{ site.baseurl }}/images/sae/paciente/novo_paciente.png){:class="img-center"}
+![]({{ site.baseurl }}/images/sae/paciente/cad_pacient_finalizado.png){:class="img-center"}
 
 Após preencher o formulário, click no botão "Cadastrar" localizado no fim do formulário. Se estiver tudo de acordo, o paciente será cadastrado.
