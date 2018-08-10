@@ -22,7 +22,7 @@ Figura 2. Tela de Diagnósticos.
 Mais uma vez, você deverá clicar no botão "Próximo".
 
 ### 3) Aprazamento
-Por consequência, a tela de Aprazamento será exibida assim como mostra a Figura 3. Para cada "acompanhamento" de um determinado Diagnostíco, você deverá definir o horário em que o acompanhamento irá começar, o dia e finalmente o intervalo das interveções (em horas).
+Por consequência, a tela de Aprazamento será exibida assim como mostra a Figura 3. Para cada "acompanhamento" de um determinado diagnóstico, você deverá definir o horário em que o acompanhamento irá começar, o dia e finalmente o intervalo das interveções (em horas).
 
 Figura 3. Exemplo de Aprazamento.
 ![]({{ site.baseurl }}/images/sae/plano/aprazamento_preenchido.png){:class="img-center"}
