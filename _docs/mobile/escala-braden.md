@@ -1,6 +1,6 @@
 ---
 title: Escala de Braden
-category: Versão Web
+category: Versão Mobile
 order: 3
 
 ---
