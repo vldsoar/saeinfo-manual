@@ -9,7 +9,7 @@ order: 4
 Ao tocar em "novo plano de cuidados" uma tela para selecionar as intervenções será aberta como na figura 1.
 
 Figura 1. Tela de Características Definidoras.
-![]({{ site.baseurl }}/images/saemobile/plano/intervencao.jpg){:class="img-center"}
+![]({{ site.baseurl }}/images/saemobile/plano/carac.jpg){:class="img-center"}
 
 Depois de selecionar as características deve-se arrastar a tela para o lado.
 
