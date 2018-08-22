@@ -12,7 +12,7 @@ Ao fazer login no app será exibida uma tela com a lista dos pacientes cadastrad
 Figura 1. Tela inicial do app.
 ![]({{ site.baseurl }}/images/saemobile/paciente/Inicio.jpg){:class="img-center"}
 
-Após preencher o formulário, click no botão "Cadastrar" localizado no fim do formulário. Se estiver tudo de acordo, o paciente será cadastrado.
+
 
 ### 2) Cadastrando um paciente
 Para cadastrar um novo paciente deve-se clicar no botão localizado no canto inferior esquerdo como mostra a figura 2.
