@@ -28,3 +28,10 @@ Figura 3. Exemplo de Aprazamento.
 ![]({{ site.baseurl }}/images/sae/plano/aprazamento_preenchido.png){:class="img-center"}
 
 Após o preenchimento das informações, você deve clicar no botão "Aprazar".
+
+### 4) Plano de cuidados
+
+Após o "aprazamento", você será redirecionado para tela de plano de cuidados, como mostra a Figura 4. Nela, você poderá realizar o check-in de cada procedimento; imprimir o mapa de cuidados e também adicionar a evolução do paciente.
+
+Figura 4. Tela Plano de Cuidados.
+![]({{ site.baseurl }}/images/sae/plano/plano_cuidados.png){:class="img-center"}
